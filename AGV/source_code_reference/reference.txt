@@ -1,0 +1,5 @@
+https://github.com/raspberrypi-tw/pi-follower-car/blob/master/04-opencv/04_4-color_tracking/color_tracking.py
+
+https://blog.gtwang.org/programming/opencv-webcam-video-capture-and-file-write-tutorial/
+
+https://www.slideshare.net/raspberrypi-tw/raspberry-pi-65881533?ref=https://www.raspberrypi.com.tw/tag/%E8%87%AA%E8%B5%B0%E8%BB%8A/
